@@ -1,0 +1,313 @@
+.nav {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1300px;
+  }
+  .image {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 80px;
+  }
+  .image-sizer {
+    width: 100%;
+    padding-top: 4.931506849315069%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .ride {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    max-width: 522px;
+    
+  }
+
+  .div10 {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 100%;
+}
+
+.image10 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 120%;
+    top: 0;
+    left: 0;
+}
+.image-sizer10 {
+    width: 100%;
+    padding-top: 128.08988764044943%;
+    pointer-events: none;
+    font-size: 0;
+}
+
+.car {
+  display: flex;
+  position: relative;
+  min-width: 20px;
+  min-height: 20px;
+  max-width: 935px;
+}
+.imagecar {
+  object-fit: contain;
+  object-position: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  top: -630px;
+  left: -140px;
+}
+.image-sizercar {
+  width: 100%;
+  padding-top: 33.09625668449198%;
+  pointer-events: none;
+  font-size: 0;
+}
+
+.shadow {
+  display: flex;
+  position: relative;
+  min-width: 0px;
+  min-height: 20px;
+  max-width: 20%;
+}
+.imageshadow {
+  object-fit: contain;
+  /* object-position: right; */
+  position: absolute;
+  height: 100%;
+  max-width: 22%;
+  right: 0px;
+  top: 0;
+  left: 854px;
+  }
+  .image-sizershadow {
+  width: 100%;
+  padding-top: 12.428078250863061%;
+  pointer-events: none;
+  font-size: 0;
+  }
+
+  .image1 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    top: 0;
+    left: 85px;
+  }
+  .image-sizer1 {
+    width: 100%;
+    padding-top: 134.2911877394636%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .plantrip {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1131px;
+  }
+  .image4 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -400px;
+    left: 185px;
+  }
+  .image-sizer4 {
+    width: 100%;
+    padding-top: 34.305923961096376%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .availables {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1130px;
+    left: 185px;
+
+  }
+  .image5 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -350px;
+    left: 0;
+  }
+  .image-sizer5 {
+    width: 100%;
+    padding-top: 80.08849557522124%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .about {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1218px;
+    left: 185px;
+  }
+  .image6 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -300px;
+    left: 0;
+  }
+  .image-sizer6 {
+    width: 100%;
+    padding-top: 55.74712643678161%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .ads {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1920px;
+  }
+  .image7 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -280px;
+    left: 0;
+  }
+  .image-sizer7 {
+    width: 100%;
+    padding-top: 23.958333333333336%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .testimonial {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1185px;
+    left: 185px;
+
+  }
+  .image8 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -180px;
+    left: 0;
+  }
+  .image-sizer8 {
+    width: 100%;
+    padding-top: 47.34177215189874%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .newsletter {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 1920px;
+  }
+  .image9 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -192px;
+    left: 0;
+  }
+  .image-sizer9 {
+    width: 500%;
+    padding-top: 31.458333333333332%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .playstore {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 580px;
+    left: 185px;
+
+  }
+  .image11 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: -190px;
+    left: 0;
+  }
+  .image-sizer11 {
+    width: 100%;
+    padding-top: 62.241379310344826%;
+    pointer-events: none;
+    font-size: 0;
+  }
+  .maps {
+    display: flex;
+    position: relative;
+    min-width: 20px;
+    min-height: 20px;
+    max-width: 447px;
+    left: 185px;
+
+  } 
+  .image12 {
+    object-fit: contain;
+    object-position: center;
+    position: absolute;
+    height: 140%;
+    width: 100%;
+    top: -192px;
+    left: 0;
+  }
+  .image-sizer12 {
+    width: 100%;
+    padding-top: 145.413870246085%;
+    pointer-events: none;
+    font-size: 0;
+  }
+
+  .grid-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    height: 100%;
+  }
+    
+  .grid-container1{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+  }
