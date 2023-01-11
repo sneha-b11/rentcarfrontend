@@ -1,8 +1,7 @@
 # Rentcarfrontend
 
-## About the App
-- Converted a figma file.
--	Technologies used – HTML, CSS, Tailwind, JavaScript (Frontend), Svelte, GUN.js (Backend).
+## About the Website
+
 
 
 ## Demo 
