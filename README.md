@@ -1,7 +1,7 @@
 # Rentcarfrontend
 
 ## About the Website
-
+Converted Figma designs to high quality, responsive HTML and CSS, frontend page. Exporting Figma designs to code are a best-effort process.
 
 
 ## Demo 
