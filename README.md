@@ -1,6 +1,6 @@
 # Rentcarfrontend
 
-## About the Website
+## About the Webpage
 Exporting Figma designs to code is a best-effort process. I converted Figma designs to high-quality, responsive HTML and CSS and created a front-end page for a car rental website.
 
 
